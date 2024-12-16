@@ -1,7 +1,6 @@
 # SecureRAG: A Secure RAG System for Compliance and Security 🌐🔐
 
-**SecureRAG** is a cutting-edge system designed to ensure compliance with global regulations while safeguarding against breaches. By leveraging a combination of a Large Language Model (LLM) and Knowledge Graphs, SecureRAG provides a secure and transparent framework for organizations to manage and evaluate their compliance with various regulations such as GDPR, HIPAA, and more.
-
+**SecureRAG** : a Secure RAG System that ensures compliance with global regulations and safeguards against breaches, using a combination of a Large Language Model and Knowledge Graphs.
 ## Getting Started 🚀
 
 To get SecureRAG up and running, follow these steps:
