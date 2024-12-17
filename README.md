@@ -30,7 +30,8 @@ Login credentials for the admin interface (for testing purposes):
 Then To use the SecureRAG system as an end-user, run the following command:
 
 ```bash
-streamlit run rag/safe_guard_rag.py
+cd rag
+streamlit run safe_guard_rag.py
 ```
 
 This will allow users to interact with the system, submit queries, and receive compliance-assessed responses.
