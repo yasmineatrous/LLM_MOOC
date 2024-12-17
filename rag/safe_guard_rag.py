@@ -80,7 +80,7 @@ def should_answer(user_query, context):
 ]
 
     decision = llm.invoke(messages)  # Get the first result from the generator
-    return 'Yes'#decision.content.upper()   # Now, you can safely apply .upper() to the result
+    return decision.content.upper()   # Now, you can safely apply .upper() to the result
 
 def extract_rule_and_risk_category(user_query, rules):
     
